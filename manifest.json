@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>64B8FC0FB12AE0333274C10D</RequestId>
+  <HostId>minigame-bundles.oss-ap-southeast-1-internal.aliyuncs.com</HostId>
+  <Key>hopball_3d/production/manifest.json</Key>
+  <EC>0026-00000001</EC>
+</Error>
